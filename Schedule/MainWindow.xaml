@@ -1,0 +1,70 @@
+﻿<Window x:Class="Schedule.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Schedule"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+
+    <Grid x:Name="AuthorizationGrid" Visibility="Visible" Height="450" Width="400">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="61*"/>
+            <RowDefinition Height="373*"/>
+        </Grid.RowDefinitions>
+        <TextBlock 
+            x:Name="authorizationText" 
+            Text="Авторизация"
+            FontSize="18"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            Margin="0,30,0,0" />
+
+        <TextBlock 
+            Text="Ник" 
+            Foreground="Gray" 
+            VerticalAlignment="Top" 
+            HorizontalAlignment="Left" 
+            Margin="125,39,0,0" Grid.Row="1" />
+
+        <TextBox 
+            x:Name="nicknameTextBox" 
+            Width="150" 
+            Height="30" 
+            Margin="125,64,125,0" 
+            VerticalAlignment="Top" Grid.Row="1" />
+
+        <TextBlock 
+            Text="Пароль" 
+            Foreground="Gray" 
+            VerticalAlignment="Top" 
+            HorizontalAlignment="Left" 
+            Margin="125,116,0,0" Grid.Row="1" />
+
+        <TextBox 
+            x:Name="passwordTextBox" 
+            Width="150" 
+            Height="30" 
+            Margin="125,141,125,0" 
+            VerticalAlignment="Top" Grid.Row="1" />
+
+        <Button 
+            x:Name="authorizationButton" 
+            Width="80" 
+            Height="30"
+            Background="LightGray" 
+            Margin="160,190,160,0" 
+            VerticalAlignment="Top"
+            Content="Войти" 
+            Click="AuthorizationButton_Click" Grid.Row="1" />
+
+        <TextBlock 
+            x:Name="goToRegistrationButton" 
+            Width="80" 
+            Height="20"
+            Margin="160,240,160,0" 
+            VerticalAlignment="Top"
+            Text="Регистрация" Grid.Row="1"
+            MouseDown="GoToRegistrationButton_Click"/>
+    </Grid>
+</Window>

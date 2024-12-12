@@ -7,32 +7,36 @@
       "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\registrationwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\registrationwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\captcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\captcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\models\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\models\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\registrationwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\registrationwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\registrationwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\registrationwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|c:\\users\\katya\\source\\repos\\schedule\\schedule\\registrationwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{29B3C561-565A-49B1-AD8A-3F2836D8354C}|Schedule\\Schedule.csproj|solutionrelative:schedule\\registrationwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +46,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersContext.cs",
+              "DocumentMoniker": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\Models\\UsersContext.cs",
+              "RelativeDocumentMoniker": "Schedule\\Models\\UsersContext.cs",
+              "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\Models\\UsersContext.cs",
+              "RelativeToolTip": "Schedule\\Models\\UsersContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:32:15.245Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -57,12 +74,20 @@
               "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Captcha.cs",
+              "DocumentMoniker": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\Captcha.cs",
+              "RelativeDocumentMoniker": "Schedule\\Captcha.cs",
+              "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\Captcha.cs",
+              "RelativeToolTip": "Schedule\\Captcha.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:22:12.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\Models\\User.cs",
               "RelativeDocumentMoniker": "Schedule\\Models\\User.cs",
@@ -70,8 +95,7 @@
               "RelativeToolTip": "Schedule\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T09:23:07.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T09:23:07.68Z"
             },
             {
               "$type": "Document",
@@ -81,23 +105,34 @@
               "RelativeDocumentMoniker": "Schedule\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\MainWindow.xaml.cs",
               "RelativeToolTip": "Schedule\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T08:36:52.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Schedule\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\MainWindow.xaml",
+              "RelativeToolTip": "Schedule\\MainWindow.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDIAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T08:20:44.662Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsersContext.cs",
-              "DocumentMoniker": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\Models\\UsersContext.cs",
-              "RelativeDocumentMoniker": "Schedule\\Models\\UsersContext.cs",
-              "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\Models\\UsersContext.cs",
-              "RelativeToolTip": "Schedule\\Models\\UsersContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Title": "RegistrationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\RegistrationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Schedule\\RegistrationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\RegistrationWindow.xaml.cs",
+              "RelativeToolTip": "Schedule\\RegistrationWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwCYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:32:15.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T08:37:18.602Z"
             },
             {
               "$type": "Document",
@@ -107,35 +142,20 @@
               "RelativeDocumentMoniker": "Schedule\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\MainWindow.xaml",
               "RelativeToolTip": "Schedule\\MainWindow.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T08:20:44.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T08:20:40.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Schedule\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\MainWindow.xaml",
-              "RelativeToolTip": "Schedule\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T08:20:40.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "RegistrationWindow.xaml",
               "DocumentMoniker": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\RegistrationWindow.xaml",
               "RelativeDocumentMoniker": "Schedule\\RegistrationWindow.xaml",
               "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\RegistrationWindow.xaml",
               "RelativeToolTip": "Schedule\\RegistrationWindow.xaml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAFAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T08:20:04.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T08:20:04.172Z"
             },
             {
               "$type": "Document",
@@ -146,31 +166,17 @@
               "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\RegistrationWindow.xaml",
               "RelativeToolTip": "Schedule\\RegistrationWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-11T08:01:15.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T08:01:15.571Z"
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistrationWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\RegistrationWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Schedule\\RegistrationWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\katya\\source\\repos\\Schedule\\Schedule\\RegistrationWindow.xaml.cs",
-              "RelativeToolTip": "Schedule\\RegistrationWindow.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAgwDIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T08:37:18.602Z",
-              "EditorCaption": ""
             }
           ]
         }

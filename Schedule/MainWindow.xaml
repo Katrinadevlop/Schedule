@@ -48,12 +48,21 @@
             Margin="125,141,125,0" 
             VerticalAlignment="Top" Grid.Row="1" />
 
+        <Image x:Name="pictureBoxCaptcha" Width="200" Height="50" Margin="101,176,99,0" VerticalAlignment="Top" Grid.Row="1"/>
+
+        <TextBox 
+            x:Name="chaptaTextBox" 
+            Width="150" 
+            Height="30" 
+            Margin="125,247,125,0" 
+            VerticalAlignment="Top" Grid.Row="1" />
+
         <Button 
             x:Name="authorizationButton" 
             Width="80" 
             Height="30"
             Background="LightGray" 
-            Margin="160,190,160,0" 
+            Margin="160,279,160,0" 
             VerticalAlignment="Top"
             Content="Войти" 
             Click="AuthorizationButton_Click" Grid.Row="1" />
@@ -62,7 +71,7 @@
             x:Name="goToRegistrationButton" 
             Width="80" 
             Height="20"
-            Margin="160,240,160,0" 
+            Margin="160,329,160,0" 
             VerticalAlignment="Top"
             Text="Регистрация" Grid.Row="1"
             MouseDown="GoToRegistrationButton_Click"/>

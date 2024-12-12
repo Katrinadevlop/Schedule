@@ -158,3 +158,9 @@ C:\Users\katya\source\repos\Schedule\Schedule\bin\Debug\net8.0-windows\runtimes\
 C:\Users\katya\source\repos\Schedule\Schedule\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\katya\source\repos\Schedule\Schedule\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\katya\source\repos\Schedule\Schedule\obj\Debug\net8.0-windows\RegistrationWindow.baml
+C:\Users\katya\source\repos\Schedule\Schedule\obj\Debug\net8.0-windows\Schedule.sourcelink.json
+C:\Users\katya\source\repos\Schedule\Schedule\bin\Debug\net8.0-windows\CaptchaGen.dll
+C:\Users\katya\source\repos\Schedule\Schedule\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\katya\source\repos\Schedule\Schedule\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\katya\source\repos\Schedule\Schedule\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\katya\source\repos\Schedule\Schedule\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
